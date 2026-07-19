@@ -1,0 +1,14 @@
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\bin\Debug\net10.0\practicoexpermiental.exe
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\bin\Debug\net10.0\practicoexpermiental.deps.json
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\bin\Debug\net10.0\practicoexpermiental.runtimeconfig.json
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\bin\Debug\net10.0\practicoexpermiental.dll
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\bin\Debug\net10.0\practicoexpermiental.pdb
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.AssemblyInfoInputs.cache
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.AssemblyInfo.cs
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.csproj.CoreCompileInputs.cache
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.dll
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\refint\practicoexpermiental.dll
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.pdb
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\practicoexpermiental.genruntimeconfig.cache
+C:\Users\World\Documents\C#\Practico experimental 2\practicoexpermiental\obj\Debug\net10.0\ref\practicoexpermiental.dll
